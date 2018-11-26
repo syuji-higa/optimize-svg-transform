@@ -1,0 +1,23 @@
+{
+  "name": "optimize-svg-transform",
+  "version": "1.0.0",
+  "description": "optimize svg transform",
+  "main": "index.js",
+  "scripts": {
+    "optimize": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syuji-higa/optimize-svg-transform.git"
+  },
+  "keywords": [
+    "svg",
+    "transform"
+  ],
+  "author": "syuji-higa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syuji-higa/optimize-svg-transform/issues"
+  },
+  "homepage": "https://github.com/syuji-higa/optimize-svg-transform#readme"
+}

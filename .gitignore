@@ -1,0 +1,6 @@
+.DS_Store
+Thumb.db
+.vscode
+node_modules
+src
+dist
