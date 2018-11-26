@@ -1,7 +1,7 @@
 Optimize SVG transform
 
 # Use Scripts
-[Adobe-Export-Scripts](https://github.com/bronzehedwick/Adobe-Export-Scripts)
+[Adobe-Export-Scripts](https://github.com/bronzehedwick/Adobe-Export-Scripts)  
 `Adobe-Export-Scripts-master > Illustrator > Export Layout.jsx`
 
 # Flow
@@ -29,7 +29,7 @@ Layer 1
   |- <Group>
 ```
 
-And change group name. If it is the same name, add _ and specify a sequential number.
+And change group name. If it is the same name, add `_` and specify a sequential number.
 
 **Example**
 ```
@@ -45,7 +45,7 @@ Can change the `transform-origin` by setting after `*`. If not set it will becom
 
 ### Rules
 - Specified in order of `x`, `y` with percentage at the upper left origin. Example: `50,50`.
-- To specify it from the parent SVG, add ^ to the prefix. Example: `^50,50`.
+- To specify it from the parent SVG, add `^` to the prefix. Example: `^50,50`.
 
 **Example**
 ```
@@ -129,5 +129,5 @@ data attribute key.
 
 ## DATA_VALUE_TYPE
 value: string `class` or `id`  
-dafault: `class`
+dafault: `class`  
 data attribute value type.
